@@ -12,7 +12,7 @@ Unlock Studio 是一个**单文件、纯前端、零依赖**的本地音乐解�
 所有解析与解密都在浏览器本地完成：**没有后端、没有上传、没有统计，也不会重新编码音频**。
 
 仓库地址：<https://github.com/eto9854/Unlock-Studio>
-
+Pages:https://unstudio.kicp.fun
 ---
 
 ## 目录
